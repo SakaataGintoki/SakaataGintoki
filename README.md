@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishab Singh</h1>
 <h3 align="center">I’m a results-driven Data analyst currently working in the industry. With hands-on experience allows me to stay updated with the latest trends while applying them in real-world scenarios. I’m actively exploring opportunities where I can contribute my skills, continue learning, and grow in a collaborative, data-focused environment and looking ahead for new challenges.</h3>
 
+- 🌱 I’m currently learning **Machine Learning, Finance, and Some Advance Concept**
+
+- 📫 How to reach me **srishab9898@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rishabs82941697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabs82941697" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishab-singh-673905282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishab-singh-673905282/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@srishab9898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@srishab9898" height="30" width="40" /></a>
+<a href="https://medium.com/@srishab9898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srishab9898" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
